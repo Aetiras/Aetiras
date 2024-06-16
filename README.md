@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ferhat Erdem</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Şimdi & Codecore](https://simdi.app/)
+- 🔭 I’m currently working on [Mobil Proses & Codecore]
 
 - 🌱 I’m currently learning **Next.js and Quarkus**
 
-- 👨‍💻 All of my projects are available at [https://ferhaterdm.com](https://ferhaterdm.com)
-
-- 📝 I regularly write articles on [https://ferhaterdm.com/blog](https://ferhaterdm.com/blog)
+- 👨‍💻 All of my projects are available at [https://ferhaterrdm.com](https://ferrhaterdm.com)
 
 - 💬 Ask me about **Flutter, Java, C#**
 
