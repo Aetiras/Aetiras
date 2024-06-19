@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ferhaterrdm.com](https://ferrhaterdm.com)
 
-- 📝 I regularly write articles on [https://ferhaterdem.medium.com/](https://ferhaterdem.medium.com/)
+- 📝 I regularly write articles on [https://ferhaterdem.medium.com](https://ferhaterdem.medium.com)
 
 - 💬 Ask me about **Flutter, Java, C#**
 
