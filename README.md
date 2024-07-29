@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferhat Erdem</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Mobil Proses & Codecore]
+- 🔭 I’m currently working on Codecore
 
 - 🌱 I’m currently learning **Next.js and Quarkus**
 
