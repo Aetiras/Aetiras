@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js and Quarkus**
 
-- 👨‍💻 All of my projects are available at [https://ferhaterrdm.com](https://ferrhaterdm.com)
+- 👨‍💻 All of my projects are available at [https://ferhaterrdm.com](https://ferhaterrdm.com)
 
 - 📝 I regularly write articles on [https://ferhaterdem.medium.com](https://ferhaterdem.medium.com)
 
