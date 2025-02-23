@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Codecore
 
-- 🌱 I’m currently learning **Next.js and Quarkus**
+- 🌱 I’m currently learning **AI Agent Development**
 
 - 👨‍💻 All of my projects are available at [https://ferhaterrdm.com](https://ferhaterrdm.com)
 
